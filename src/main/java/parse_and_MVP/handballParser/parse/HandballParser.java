@@ -1,7 +1,7 @@
 package parse_and_MVP.handballParser.parse;
 
-import interfaces.Player;
-import player.HandballPlayer;
+import players.interfaces.Player;
+import players.HandballPlayer;
 import point_to_winner.PointToWinner;
 
 import java.io.File;

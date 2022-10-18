@@ -1,7 +1,7 @@
 package parse_and_MVP.basketball.parse;
 
-import interfaces.Player;
-import player.BasketballPlayer;
+import players.interfaces.Player;
+import players.BasketballPlayer;
 import point_to_winner.PointToWinner;
 
 import java.io.File;

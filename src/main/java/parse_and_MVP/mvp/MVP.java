@@ -1,6 +1,6 @@
 package parse_and_MVP.mvp;
 
-import interfaces.Player;
+import players.interfaces.Player;
 
 import java.util.Comparator;
 import java.util.HashMap;

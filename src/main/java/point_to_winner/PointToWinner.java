@@ -1,6 +1,6 @@
 package point_to_winner;
 
-import interfaces.Player;
+import players.interfaces.Player;
 
 import java.util.HashMap;
 import java.util.Map;

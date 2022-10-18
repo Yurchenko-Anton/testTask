@@ -1,4 +1,4 @@
-package interfaces;
+package players.interfaces;
 
 public interface Player {
     String getName();

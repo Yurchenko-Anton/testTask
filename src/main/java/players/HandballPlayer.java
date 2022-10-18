@@ -1,6 +1,6 @@
-package player;
+package players;
 
-import interfaces.Player;
+import players.interfaces.Player;
 
 import java.util.Objects;
 
